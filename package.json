@@ -1,0 +1,21 @@
+{
+  "name": "AuthKit",
+
+  "version": "0.1.0",
+  "description": "A small brunch of code that help developer to manage access control",
+  "main": "AuthKit.js",
+
+  "directories": {
+    "doc": "docs"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bu/AuthKit.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Buwei Chiu",
+  "license": "MIT"
+}
