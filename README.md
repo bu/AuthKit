@@ -31,4 +31,3 @@ These method will return not found page or message to client.
 	app.use(AuthKit.server.apiNotFoundError);
 	app.use(AuthKit.server.pageNotFoundError);
 	
-
