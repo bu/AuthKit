@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/bu/AuthKit.png)](http://travis-ci.org/bu/AuthKit)
 # AuthKit
 
 A small bundle of tools that help developer to build authentication and authorization.
